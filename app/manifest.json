@@ -27,6 +27,9 @@
   ],
   "permissions": [
     "tabs",
-    "http://*/*"
+    "http://*/*",
+    "https://*/*",
+    "webRequest",
+    "webRequestBlocking"
   ]
 }
